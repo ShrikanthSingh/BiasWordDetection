@@ -32,3 +32,4 @@ This method of finding the mean of words vectors and then determining the 100 si
 
 ### Code execution steps:
 The code is well formatted and structured to execute it cell by cell without any confusion. But do keep in mind while writing the article links to csv file. If you are just evaluating my code then you need not run the csv WRITE code snippet, but simply update the path of corresponding csv files in the csv READ code snippent which has been uploaded in the repository. 
+### Note - Use the file OutputsClearedOff.ipynb or PreliminaryTask.py to see the code without any outputs, because the main file PreliminaryTaskMasterThesis.ipynb has output cells in it which will make you to scroll down a lot.
